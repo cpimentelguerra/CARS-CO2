@@ -5,12 +5,28 @@
     <link>https://cpimentelguerra.com/CARS-CO2/publication/</link>
       <atom:link href="https://cpimentelguerra.com/CARS-CO2/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.com/CARS-CO2/media/icon_hu903a68f77459690139586f35488807c0_418737_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://cpimentelguerra.com/CARS-CO2/publication/</link>
     </image>
+    
+    <item>
+      <title>Solution-driven processing of calcium sulfate: The mechanism of the reversible transformation of gypsum to bassanite in brines</title>
+      <link>https://cpimentelguerra.com/CARS-CO2/publication/stawski-bassanite-2024/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/CARS-CO2/publication/stawski-bassanite-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mineral particles in foliar fertilizer formulations can improve the rate of foliar uptake</title>
+      <link>https://cpimentelguerra.com/CARS-CO2/publication/pimentel-foliar-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/CARS-CO2/publication/pimentel-foliar-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating Leaf Wettability and Salt Hygroscopicity as Drivers for Foliar Absorption</title>
